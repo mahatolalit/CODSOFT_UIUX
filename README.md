@@ -14,8 +14,6 @@ A simple, modern mobile signup and login user interface design created in Figma.
 
 ![Mobile Signup Flow](Mobile%20Signup%20Flow.png)
 
-### Figma File
-
 Link: (https://www.figma.com/design/3VQiugM92Vn5mwzsQltPVG/Mobile-Signup-Flow?m=auto&t=NY0rWwnz49iYYVWs-1)
 
 Prototype: (https://www.figma.com/proto/3VQiugM92Vn5mwzsQltPVG/Mobile-Signup-Flow?node-id=0-1&t=vrhpqMBdP5smOkKv-1)
