@@ -40,3 +40,14 @@ Design: (https://www.figma.com/design/AjObZyylUzvcI4pUpqUy6z/Task-2-Email-Templa
 Prototype: (https://www.figma.com/proto/AjObZyylUzvcI4pUpqUy6z/Task-2-Email-Template?node-id=4-153&p=f&t=FZeRtOmr1tSL8rZV-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1)  
 
 ---
+
+# Task 3 
+
+## Restaurant menu
+A clean restaurant menu template
+
+###Preview 
+
+![Restaurant menu](Task-3%20Restaurant%20menu.png)
+
+Design: https://www.figma.com/design/AXdUsnu4Ux9rge0wp2LFmD/Task-3-Restaurant-menu?node-id=0-1&t=iWL1BIBtGyZRYhDc-1
